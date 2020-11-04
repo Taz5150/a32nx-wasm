@@ -18,7 +18,7 @@
 #include "systems/packs_sys.h"
 #include "systems/bleed_sys.h"
 #include "systems/press_sys.h"
-#include "systems/eng_sys.h"
+#include "engines/eng_sys.h"
 
 
 class WasmSys {
